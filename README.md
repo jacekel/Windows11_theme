@@ -1,6 +1,6 @@
 # EpicLice — Windows11 Themes (Other)
 
-EpicLice is a warm, energizing Windows 11 theme by Jacek Łaszewski and Copilot. It pairs a sunlit color palette with custom wallpapers, icon swatches, and a ready-to-use `.theme` file so you can quickly apply a cohesive look across your desktop.
+EpicLice is a warm, energizing Windows 11 theme by Jacek Łaszewski and Copilot. It pairs a sunlit color palette with custom wallpapers, icon swatches, and a ready-to-use `.theme` file so you can quickly apply a cohesive look across your desktop. 
 
 ## Contents
 
@@ -24,10 +24,7 @@ git branch -M main
 git remote add origin git@github.com:YourUser/EpicLice.git
 git push -u origin main
 
-## To publish a release via the web UI: go to Releases → Draft a new release, tag , upload  as an asset, and publish.
-
-
----> Next version fix cursor color, and other but we need wait.  ;)
+---> Next version fix cursor color, and other but we need wait.  <3
 
 
 
