@@ -1,6 +1,6 @@
 # EpicLice — Windows11 Themes (Other)
 
-EpicLice is a warm, energizing Windows 11 theme by Jacek Łaszewski and Copilot. It pairs a sunlit color palette with custom wallpapers, icon swatches, and a ready-to-use `.theme` file so you can quickly apply a cohesive look across your desktop. 
+EpicLice is a warm, energizing Windows 11 by Microsoft.com | theme by Jacek Łaszewski and Copilot. It pairs a sunlit color palette with custom wallpapers, icon swatches, and a ready-to-use `.theme` file so you can quickly apply a cohesive look across your desktop. 
 
 ## Contents
 
